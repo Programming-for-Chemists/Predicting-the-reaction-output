@@ -7,6 +7,10 @@ Our project addresses this challenge by leveraging advanced machine learning tec
 
 Our project involved a comparison of multiple regression algorithms. The evaluated models were Linear Regression, Ridge, SVM, Random Forest, Gradient Boosting, XGBoost, and CatBoost. The best results were achieved by the Gradient Boosting Regressor, Random Forest Regressor, and XGBRegressor.
 
+### TARGET VARIABLE ANALYSIS
+
+![metrics](analysis_target.png)
+
 CLASSICAL MACHINE LEARNING MODELS:
 - Linear Models
     * LinearRegression
